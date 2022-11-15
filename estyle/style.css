@@ -71,7 +71,6 @@ section {
 section > p {
     line-height: 2em;
     min-width: min-content;
-    text-shadow: 1px 1px 1px black;
 }
 
 .imagem {
@@ -95,6 +94,7 @@ section > p {
     background-color: rgba(0, 0, 0, 0.397);
     color: white;
     padding: 5px;
+    text-shadow: 1px 1px 1px black;
 }
 
 .normal {
